@@ -51,7 +51,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any queries, contact me via:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/carmelrajc/)
+- LinkedIn: [carmelrajc](https://www.linkedin.com/in/carmelrajc/)
 - Email: carmelraj2207@gmail.com
 - GitHub: [Carmelraj007](https://github.com/Carmelraj007)
 
